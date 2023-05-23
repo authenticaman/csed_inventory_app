@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185009084397",
+    "project_id": "csed-inventory",
+    "storage_bucket": "csed-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185009084397:android:56cc2ccaf513f9a9bcf9e4",
+        "android_client_info": {
+          "package_name": "com.example.csed_inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185009084397-b4e9etbgrfnbj1d7t4vcqha2gv2i0mdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.csed_inventory",
+            "certificate_hash": "2c9771ceb10be07da9b8f36d4dcb18a00b77d551"
+          }
+        },
+        {
+          "client_id": "185009084397-c9bln9pmgqqfkols29a25mprl47am07l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgBMWz2IS8xFHFZzX0FEd93wls39tSAno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185009084397-c9bln9pmgqqfkols29a25mprl47am07l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
